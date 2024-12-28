@@ -54,27 +54,6 @@ The workflow of FitTip can be summarized as follows:
 
 ---
 
-## Installation
-Follow these steps to set up the project:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/FitTip.git
-   cd FitTip
-   ```
-
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the main script:
-   ```bash
-   python main.py
-   ```
-
----
-
 ## Usage
 To use FitTip:
 1. Ensure your camera is connected.
